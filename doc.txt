@@ -1,0 +1,6 @@
+bootstap:
+ - responsive, mobile fast, fast developing
+
+another name: twitter bootstrap
+
+<section class="c-con"></section>
